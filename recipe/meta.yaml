@@ -1,6 +1,6 @@
 {% set name = "ply" %}
-{% set version = "3.10" %}
-{% set sha256 = "dd88825a5913714b0c7ec5c7f31b26a5d84862fec0a990c4d9ed88db17937976" %}
+{% set version = "3.11" %}
+{% set sha256 = "928c5642612f4710b168d3c49c25f6ece2913a5e8d1c5e37fde5d6162fec3fd2" %}
 
 package:
   name: {{ name|lower }}
